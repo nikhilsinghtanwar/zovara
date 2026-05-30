@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <g transform="translate(5, 8)">
+    <polygon points="20,44 10,44 25,10 35,10" fill="#0A1628"/>
+    <polygon points="25,10 35,10 50,44 40,44" fill="#B54A00"/>
+    <polygon points="30,20 33,20 42,44 39,44" fill="#E06A1A" opacity="0.5"/>
+  </g>
+  <text x="60" y="40" font-family="Cormorant Garamond, serif" font-weight="700" font-size="32" letter-spacing="6" fill="#0A1628">ZOVARA</text>
+</svg>
